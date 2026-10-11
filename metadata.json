@@ -1,0 +1,6 @@
+{
+  "name": "Nexus-OS: Master Autonomous Agent",
+  "description": "Voice-first Windows OS master AI agent orchestrating OS-Agent, Web-Agent, and File-Processor-Agent with autonomous execution and safety controls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
